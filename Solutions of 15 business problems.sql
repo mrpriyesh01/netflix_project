@@ -1,7 +1,7 @@
 -- Netflix Data Analysis using SQL
 -- Solutions of 15 business problems
 -- 1. Count the number of Movies vs TV Shows
-----#Objective: Determine the distribution of content types on Netflix.
+----#Objective: Determine the distribution of content types on Netflix....
 SELECT 
 	type,
 	COUNT(*)
